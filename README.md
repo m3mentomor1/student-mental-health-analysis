@@ -6,8 +6,6 @@ This is a mini data analysis project focused on analyzing student mental health 
 
 Using PostgreSQL, this project explores whether those patterns hold in the `students` dataset and whether **length of stay** is a contributing factor for international students.
 
-It is based on a guided project from [DataCamp](https://www.datacamp.com)'s **Associate Data Analyst in SQL** track.
-
 ## Project instructions
 
 Explore and analyze the `students` data to see how the length of stay (`stay`) impacts the average mental health diagnostic scores of the international students present in the study.
