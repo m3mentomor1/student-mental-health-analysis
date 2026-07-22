@@ -74,7 +74,7 @@ ORDER BY stay DESC;
 
 ## Acknowledgements
 
-This project is adapted from DataCamp's Associate Data Analyst in SQL track.
+This project is adapted from DataCamp's [Associate Data Analyst in SQL](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) track.
 
 **Instructor:** Jasmin Ludolf  
 Senior Data Science and AI Content Developer, DataCamp
